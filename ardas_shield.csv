@@ -1,0 +1,32 @@
+Refs,Case_Style,Code_Commande,Contact_Termination_Type,Dealer,Gender,MFN,MFP,Order_Code,Part Number,Pitch_Spacing,Supplier,datasheet,footprint,value
+BT1,,,,Farnell,1650692,KEYSTONE ,3000,1650692,1650692,,,https://github.com/UMONS-GFA/kicad-gfa.pretty/blob/master/datasheets/1696457.pdf,kicad-gfa local:BATTERY_KEYSTONE_12mm,Battery
+D1,,,,Farnell,2062259,LUMEX,SML-LXT0805GW-TR ,2062259,2062259,,,,LEDs:LED_0805,LED Green
+D2,,,,Farnell,2062217,LUMEX,SML-LX0805YC-TR,2062217,2062217,,,,LEDs:LED_0805,LED Yellow
+D3,,,,Farnell,2062238,LUMEX,SML-LXT0805SRW-TR,2062238,2062238,,,,LEDs:LED_0805,LED Red
+IC1,,,,Farnell,9725253,MAXIM INTEGRATED PRODUCTS,DS1307ZN+,9725253,9725253,,,https://github.com/UMONS-GFA/kicad-gfa.pretty/blob/master/datasheets/46359.pdf,kicad-gfa local:SOIC-8-N,DS1307
+JP1,,,,Farnell,,,,,,,,,kicad-gfa local:small_no_jumper,Jumper_NO_Small
+P1,,,Through Hole,Farnell,1278412,FCI,69190-410HLF,1278412,1278412,2.54mm,,,kicad-gfa local:Pin_Header_Straight_1x10,CONN_10
+P10,,,Through Hole ,Farnell,,MULTICOMP,MC34747,1593427,1593427,2.54mm,,,kicad-gfa local:Pin_Header_Angled_1x03,CONN_01X03
+P2,,,Through Hole ,Farnell,,HARWIN,M20-9990846 ,1022257,1022257,2.54mm,,,kicad-gfa local:Pin_Header_Straight_1x08,CONN_8
+P3,,,Through Hole ,Farnell,1924194,HARWIN,M20-9990846 ,1022257,1022257,2.54mm,,,kicad-gfa local:Pin_Header_Straight_1x08,CONN_8
+P4,,,Through Hole,,Receptacle,TE CONNECTIVITY / AMP ,5-534206-3,1266033,,2.54mm,,,kicad-gfa local:Socket_Strip_Straight_2x03,CONN_ICSP
+P5,,,Through Hole,Farnell,2132359,MOLEX,22-28-4064,2751453,2132359,2.54mm,,,kicad-gfa local:Pin_Header_Straight_1x06,CONN_6
+P6,,,Through Hole ,Farnell,1593427,MULTICOMP,MC34747,1593427,1593427,2.54mm,,,kicad-gfa local:Pin_Header_Angled_1x03,TTL_COMM
+P7,,,Through Hole ,Farnell,,MULTICOMP,MC34747,1593427,1593427,2.54mm,,,kicad-gfa local:Pin_Header_Angled_1x03,CONN_01X03
+P8,,,Through Hole ,Farnell,,MULTICOMP,MC34747,1593427,1593427,2.54mm,,,kicad-gfa local:Pin_Header_Angled_1x03,CONN_01X03
+P9,,,Through Hole ,Farnell,,MULTICOMP,MC34747,1593427,1593427,2.54mm,,,kicad-gfa local:Pin_Header_Angled_1x03,CONN_01X03
+R1,0805 [2012 Metric],,,Farnell,,,,1738972,,,,,kicad-gfa local:R_0805,10k
+R2,0805 [2012 Metric],2447574,,Farnell,2062238,MULTICOMP,MCWR08X1500FTL ,2447574,2447574,,,,kicad-gfa local:R_0805,150 Ohm
+R3,0805 [2012 Metric],,,Farnell,9233881,MULTICOMP,MCWR08X1500FTL,2447574,2447574,,,,kicad-gfa local:R_0805,150 Ohm
+R4,805 [2012 Metric],,,Farnell,2694996,YAGEO (PHYCOMP),RC0805JR-07100RL,2694996,2694996,,,,kicad-gfa local:R_0805,160 Ohm
+RP1,,,,Farnell,,VISHAY,,2352763,,,,,kicad-gfa local:R_Array_Convex_4x0603,R_4x4.7k
+RP2,,,,,,VISHAY,,2352764,,,,,kicad-gfa local:R_Array_Convex_4x0603,R_4x10k
+RP3,,,,,,VISHAY,,2352764,,,,https://github.com/UMONS-GFA/kicad-gfa.pretty/blob/master/datasheets/1730408.pdf,kicad-gfa local:R_Array_Convex_4x0603,R_4x10k
+RP4,,,,,,VISHAY,,2352764,,,,https://github.com/UMONS-GFA/kicad-gfa.pretty/blob/master/datasheets/1730408.pdf,kicad-gfa local:R_Array_Convex_4x0603,R_4x10k
+RP5,,,,,,VISHAY,,2352764,,,,https://github.com/UMONS-GFA/kicad-gfa.pretty/blob/master/datasheets/1730408.pdf,kicad-gfa local:R_Array_Convex_4x0603,R_4x10k
+U1,SOIC,,,Farnell,1595418,TEXAS INSTRUMENTS ,SN74HC595DW,1595418,1595418,,,https://github.com/UMONS-GFA/kicad-gfa.pretty/blob/master/datasheets/1970412.pdf,kicad-gfa local:SOIC-16_7.5x10.3mm_Pitch1.27mm,74HC595
+U2,SOIC,,,Farnell,9591192,TEXAS INSTRUMENTS,SN74HC165D,1236220,9591192,,,https://github.com/UMONS-GFA/kicad-gfa.pretty/blob/master/datasheets/1831348.pdf,kicad-gfa local:SOIC-16_3.9x9.9mm_Pitch1.27mm,74HC165
+U3,TSSOP,,,Farnell,1741273,TEXAS INSTRUMENTS,SN74LV8154PW,1741273,,,Farnell,https://github.com/UMONS-GFA/kicad-gfa.pretty/blob/master/datasheets/1996491.pdf,kicad-gfa local:TSSOP-20_4.4x6.5mm_Pitch0.65mm,SN74LV8154
+U4,SOIC,,,Farnell,9591192,TEXAS INSTRUMENTS,SN74HC165D,9591192,9591192,,,https://github.com/UMONS-GFA/kicad-gfa.pretty/blob/master/datasheets/1831348.pdf,kicad-gfa local:SOIC-16_3.9x9.9mm_Pitch1.27mm,74HC165
+U6,TSSOP,,,Farnell,1741273,TEXAS INSTRUMENTS,SN74LV8154PW,1741273,1741273,,,https://github.com/UMONS-GFA/kicad-gfa.pretty/blob/master/datasheets/1996491.pdf,kicad-gfa local:TSSOP-20_4.4x6.5mm_Pitch0.65mm,SN74LV8154
+X1,"CMS, 3.2mm x 1.5mm ",,,Farnell,2467865,ABRACON,ABS07-32.768KHZ-1-T,2467865,2467865,,,https://github.com/UMONS-GFA/kicad-gfa.pretty/blob/master/datasheets/1883680.pdf,kicad-gfa local:XTAL_ABRACON_ABS07,CRYSTAL
